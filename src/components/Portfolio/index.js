@@ -12,6 +12,8 @@ function Portfolio() {
                         <div className="featured-text text-center text-lg-left">
                             <h4>Dinner and a Movie</h4>
                             <p className="text-black-50 mb-0">Got into a fight with your significant other recently about never being able to find a place to eat? Yeah, I also wish I had a significant other. Enter your zip code, and figuring out your next date will be a problem of the past.</p>
+                            <a href="https://github.com/hak9292/dinner-and-a-movie">Repo</a><br></br>
+                            <a href="https://twordle2.herokuapp.com/">App</a>
                         </div>
                     </div>
                 </div>
@@ -23,6 +25,8 @@ function Portfolio() {
                                 <div className="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 className="text-white">&#123;two&#125;rdle</h4>
                                     <p className="mb-0 text-white-50">Heard of that "Wordle" game? Me neither, but here's &#123;two&#125;rdle: a six-letter-seven-tries-edition for the Scrabble champion inside of you.</p>
+                                    <a href="https://github.com/hak9292/Wordle2">Repo</a><br></br>
+                            <a href="https://hak9292.github.io/dinner-and-a-movie/">App</a>
                                     <hr className="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -38,6 +42,8 @@ function Portfolio() {
                                     <h4 className="text-white">Re-Reddit</h4>
                                     <p className="mb-0 text-white-50">Reddit, but better... Okay, fine. "Better-different, in a different, but better way."</p>
                                     <p className="mb-0 text-white-50">-Coach Phil Weston</p>
+                                    <a href="https://github.com/hak9292/Re-Reddit">Repo</a><br></br>
+                            <a href="https://hak9292.github.io/dinner-and-a-movie/">App</a>
                                     <hr className="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
