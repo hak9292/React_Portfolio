@@ -11,7 +11,7 @@ function Portfolio() {
                     <div className="col-xl-4 col-lg-5">
                         <div className="featured-text text-center text-lg-left">
                             <h4>Dinner and a Movie</h4>
-                            <p className="text-black-50 mb-0">Got into a fight with your significant other recently about never being able to find a place to eat? Yeah, me too. I wish I had a significant other. Enter your zip code, and figuring out your next date will be a problem of the past.</p>
+                            <p className="text-black-50 mb-0">Got into a fight with your significant other recently about never being able to find a place to eat? Yeah, I also wish I had a significant other. Enter your zip code, and figuring out your next date will be a problem of the past.</p>
                         </div>
                     </div>
                 </div>
