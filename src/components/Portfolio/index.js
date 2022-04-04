@@ -36,7 +36,7 @@ function Portfolio() {
                             <div className="d-flex h-100">
                                 <div className="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 className="text-white">Re-Reddit</h4>
-                                    <p className="mb-0 text-white-50">Reddit, but better... Okay, fine. "Better different in a different, but better way."</p>
+                                    <p className="mb-0 text-white-50">Reddit, but better... Okay, fine. "Better-different, in a different, but better way."</p>
                                     <p className="mb-0 text-white-50">-Coach Phil Weston</p>
                                     <hr className="d-none d-lg-block mb-0 me-0" />
                                 </div>
