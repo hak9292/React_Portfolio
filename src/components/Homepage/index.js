@@ -3,16 +3,17 @@ import { Link } from 'react-router-dom';
 import img from '../../assets/generic-coder.jpeg';
 
 function Homepage() {
-    return (
-        <div>
-        <img
+  return (
+    <div>
+      <img
         className="card-img-top"
         src={img}
         alt="Card cap"
       />
-        </div>
+    
+    </div>
 
-    )
+  )
 }
 
 export default Homepage;
